@@ -1,0 +1,6 @@
+﻿  book.c
+d:\c\new_communication\new_communication\book.c(89): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+d:\c\new_communication\new_communication\book.c(102): warning C4477: “printf”: 格式字符串“% -10s”需要类型“char *”的参数，但可变参数 4 拥有了类型“int *”
+d:\c\new_communication\new_communication\book.c(159): warning C4477: “printf”: 格式字符串“% -10s”需要类型“char *”的参数，但可变参数 4 拥有了类型“int *”
+d:\c\new_communication\new_communication\book.c(187): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  new_communication.vcxproj -> D:\C\new_communication\Debug\new_communication.exe
